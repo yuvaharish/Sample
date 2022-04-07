@@ -2,3 +2,10 @@ hi how are you?
 
 i am fine learn git newly
 
+new code today i add
+
+yeterday i leared 
+git init
+git add
+git commit
+
