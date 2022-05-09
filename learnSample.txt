@@ -2,7 +2,7 @@ public class Welcome{
 	
 	public static void main(String[] args) {
 		System.out.println("Welcome Jenkins");
-		System.out.println("learn Jenkins job run from to run");
+		System.out.println("learn Jenkins job run to run");
 		
 	}
 
