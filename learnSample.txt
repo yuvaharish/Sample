@@ -1,4 +1,10 @@
-Hi how are you?
-i am good and i am fine
-how are you
-i am good what about you
+public class Welcome{
+	
+	public static void main(String[] args) {
+		System.out.println("Welcome Jenkins");
+		System.out.println("learn Jenkins job to run");
+		
+	}
+
+}
+
