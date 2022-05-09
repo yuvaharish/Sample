@@ -1,7 +1,8 @@
-public class HelloGuys{
+public class Welcome{
+	
+	public static void main(String[] args) {
+		System.out.println("Welcome Jenkins");
+		System.out.println("learn Jenkins job how to run");
+	}
 
-public static void main(String[] args){
-
-System.out.println("Hey yuvaraj");
-}
 }
