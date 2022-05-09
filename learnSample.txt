@@ -1,4 +1,7 @@
-Hi how are you?
-i am good and i am fine
-how are you
-What about you
+public class HelloGuys{
+
+public static void main(String[] args){
+
+System.out.println("Hey yuvaraj");
+}
+}
