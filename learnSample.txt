@@ -3,8 +3,8 @@ public class Welcome{
 	public static void main(String[] args) {
 		System.out.println("Welcome Jenkins");
 
-		System.out.prin("gitpush");
-
+		System.out.prin("git");
+		System.out.prin("yuvaraj");
 		System.out.println("init")
 
 		System.out.println("learn Jenkins job to run");
